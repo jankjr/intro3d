@@ -1,0 +1,1255 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"no",
+				"currentNormal"
+			],
+			[
+				"curr",
+				"currentSelectedBlock"
+			],
+			[
+				"curre",
+				"currentNormal"
+			],
+			[
+				"drawCA",
+				"drawCallsAcc"
+			],
+			[
+				"mouse",
+				"mouseIsOver"
+			],
+			[
+				"CHUNK",
+				"CHUNK_SIZE"
+			],
+			[
+				"chunks",
+				"chunksCurrentlyInView"
+			],
+			[
+				"off",
+				"offsideScreen"
+			],
+			[
+				"camera",
+				"cameraPosition"
+			],
+			[
+				"offs",
+				"offsideMat"
+			],
+			[
+				"US",
+				"UNSIGNED_BYTE"
+			],
+			[
+				"view",
+				"view4"
+			],
+			[
+				"persp",
+				"perspectiveCamera"
+			],
+			[
+				"ib",
+				"idBufferVertices"
+			],
+			[
+				"scale",
+				"scaley"
+			],
+			[
+				"v",
+				"vrings"
+			],
+			[
+				"CHUNK_",
+				"CHUNK_SIZE"
+			],
+			[
+				"world",
+				"worldY"
+			],
+			[
+				"inn",
+				"innerOffsetZ"
+			],
+			[
+				"text",
+				"textureIndex"
+			],
+			[
+				"per",
+				"perspectiveCamera"
+			],
+			[
+				"or",
+				"orthoCamera"
+			],
+			[
+				"chun",
+				"CHUNK_SIZE"
+			],
+			[
+				"in",
+				"innerOffsetZ"
+			],
+			[
+				"chuns",
+				"chunksCurrentlyInView"
+			],
+			[
+				"chunk",
+				"chunksCurrentlyInView"
+			],
+			[
+				"res",
+				"resy"
+			],
+			[
+				"enco",
+				"encodedPosition"
+			],
+			[
+				"PAGE",
+				"PAGES_PR_BUFFER"
+			],
+			[
+				"geomC",
+				"geomChunksX"
+			],
+			[
+				"chunksTo",
+				"chunksToAlloc"
+			],
+			[
+				"AD",
+				"ADB_WITH_S"
+			],
+			[
+				"mater",
+				"materialMemory"
+			],
+			[
+				"blockD",
+				"blockDesc"
+			],
+			[
+				"blo",
+				"blockDef"
+			],
+			[
+				"materi",
+				"material"
+			],
+			[
+				"materia",
+				"materialPages"
+			],
+			[
+				"inner",
+				"innerOffsetX"
+			],
+			[
+				"geom",
+				"geomChunksZ"
+			],
+			[
+				"geo",
+				"geomChunks"
+			],
+			[
+				"nam",
+				"nameToKeycodeMapping"
+			],
+			[
+				"key",
+				"keycode"
+			],
+			[
+				"getBl",
+				"getBlockTypeAt"
+			],
+			[
+				"pages",
+				"pages"
+			],
+			[
+				"loc",
+				"location"
+			],
+			[
+				"frage",
+				"fragmentShader"
+			],
+			[
+				"vertexS",
+				"vertexSource"
+			],
+			[
+				"snap",
+				"snapshot_id"
+			],
+			[
+				"aggr",
+				"aggregated_fail_rate_pr_snapshot"
+			],
+			[
+				"explo",
+				"explosionX"
+			],
+			[
+				"expo",
+				"explosionX"
+			],
+			[
+				"expl",
+				"explosionA"
+			],
+			[
+				"mousep",
+				"mouseposy"
+			],
+			[
+				"dire",
+				"directiony"
+			],
+			[
+				"rig",
+				"rightBelow2"
+			],
+			[
+				"mousepo",
+				"mouseposx"
+			],
+			[
+				"LineB",
+				"Linebatch"
+			],
+			[
+				"posi",
+				"positionLoc"
+			],
+			[
+				"direc",
+				"directionx"
+			],
+			[
+				"offset",
+				"offsetX"
+			],
+			[
+				"Quad",
+				"QuadBatch"
+			],
+			[
+				"Qu",
+				"QuadBatch"
+			],
+			[
+				"vertex",
+				"vertexSize"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"window_",
+				"window_info"
+			],
+			[
+				"ch",
+				"childSeries"
+			],
+			[
+				"prop",
+				"property"
+			],
+			[
+				"series",
+				"seriesData"
+			],
+			[
+				"proper",
+				"property"
+			],
+			[
+				"mark",
+				"market_shares_filter"
+			],
+			[
+				"cou",
+				"countries"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"countr",
+				"countriesData"
+			],
+			[
+				"coun",
+				"countriesData"
+			],
+			[
+				"transl",
+				"translateToAPIVersion"
+			],
+			[
+				"os",
+				"os_version"
+			],
+			[
+				"snao",
+				"snapshot"
+			],
+			[
+				"displ",
+				"display_name"
+			],
+			[
+				"sn",
+				"snapshot"
+			],
+			[
+				"snaps",
+				"snapshotData"
+			],
+			[
+				"mks",
+				"mksMarketShareDataProcessed"
+			],
+			[
+				"constra",
+				"constraints"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"andr",
+				"androidTranslation"
+			],
+			[
+				"gin",
+				"gingerbreadmr1"
+			],
+			[
+				"ice",
+				"icecreamsandwichmr1"
+			],
+			[
+				"honeycombm",
+				"honeycombmr1"
+			],
+			[
+				"jell",
+				"jellybeanmr2"
+			],
+			[
+				"jellyba",
+				"jellybeanmr1"
+			],
+			[
+				"snapsh",
+				"snapshotInfo"
+			],
+			[
+				"model",
+				"modelModelsAndVersions"
+			],
+			[
+				"acti",
+				"activeSnapshots"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"filter",
+				"filtered"
+			],
+			[
+				"market",
+				"marketShare"
+			],
+			[
+				"filte",
+				"filteredResults"
+			],
+			[
+				"fil",
+				"filteredResults"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"html",
+				"html_safe"
+			],
+			[
+				"hash",
+				"hashmap_of_stuff_we_already_have"
+			],
+			[
+				"up",
+				"updateAutocompletionList"
+			],
+			[
+				"Market",
+				"MarketSharesWidget"
+			],
+			[
+				"countri",
+				"countries_total"
+			],
+			[
+				"countrie",
+				"countries_data"
+			],
+			[
+				"B",
+				"BLACK"
+			],
+			[
+				"BLAC",
+				"RedBlackTree"
+			],
+			[
+				"RedB",
+				"RedBlackTree"
+			],
+			[
+				"square_",
+				"square_grid_index"
+			],
+			[
+				"row_",
+				"row_check_too"
+			],
+			[
+				"trello",
+				"trello_utils"
+			],
+			[
+				"sna",
+				"snapshot_id"
+			],
+			[
+				"connec",
+				"connection"
+			],
+			[
+				"testc",
+				"testcloud_connection"
+			],
+			[
+				"cate",
+				"category_this_device_should_be_in"
+			],
+			[
+				"action",
+				"actions_to_perform"
+			],
+			[
+				"testcl",
+				"testcloud_state"
+			],
+			[
+				"TEST",
+				"TESTCLOUD_PASSWORD"
+			],
+			[
+				"TESTCL",
+				"TESTCLOUD_USER"
+			],
+			[
+				"from",
+				"from_cat"
+			],
+			[
+				"all",
+				"all_comments"
+			],
+			[
+				"get",
+				"get_all_device_comments"
+			],
+			[
+				"Poin",
+				"Point-registered"
+			],
+			[
+				"card_",
+				"card_id_to_card"
+			],
+			[
+				"Ar",
+				"Archieved"
+			],
+			[
+				"categ",
+				"category_name"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/vertex-memory.js",
+			"settings":
+			{
+				"buffer_size": 5768,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 167.0,
+		"last_filter": "add ",
+		"selected_items":
+		[
+			[
+				"add ",
+				"Project: Add Folder"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"toggl",
+				"Toggle Block Comment"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"tab",
+				"AlignTab"
+			],
+			[
+				"add fol",
+				"Project: Add Folder"
+			],
+			[
+				"lin",
+				"Coffee: Lint"
+			],
+			[
+				"lowercase",
+				"Convert Case: Lower Case"
+			],
+			[
+				"coffeescript",
+				"Coffee: Display JavaScript"
+			],
+			[
+				"compi",
+				"Coffee: Compile File"
+			],
+			[
+				"instla",
+				"Package Control: Install Package"
+			],
+			[
+				"intsall",
+				"Package Control: Install Package"
+			],
+			[
+				"add fo",
+				"Project: Add Folder"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jankjr/Code/intro3d2",
+		"/Users/jankjr/Code/intro3d2/res",
+		"/Users/jankjr/Code/intro3d2/src"
+	],
+	"file_history":
+	[
+		"/Users/jankjr/Code/intro3d2/src/world-renderer.js",
+		"/Users/jankjr/Code/intro3d2/main.html",
+		"/Users/jankjr/Code/intro3d2/src/world.js",
+		"/Users/jankjr/Code/intro3d2/src/block-definition.js",
+		"/Users/jankjr/Code/intro3d2/src/interleaved-mesh.js",
+		"/Users/jankjr/Code/intro3d2/src/chunk.js",
+		"/Users/jankjr/Code/intro3d2/src/main.js",
+		"/Users/jankjr/Code/intro3d2/src/vertex-memory.js",
+		"/Users/jankjr/Code/intro3d2/src/mat4.js",
+		"/Users/jankjr/Code/intro3d2/src/spinningCubeMeshGen.js",
+		"/Users/jankjr/Code/intro3d2/src/block-geometry.js",
+		"/Users/jankjr/Code/intro3d2/src/betterinput.js",
+		"/Users/jankjr/Code/intro3d2/src/start.js",
+		"/Users/jankjr/Code/intro3d2/src/mesh.js",
+		"/Users/jankjr/Code/intro3d2/src/material.js",
+		"/Users/jankjr/Code/intro3d2/src/camera.js",
+		"/Users/jankjr/Code/intro3d2/src/vec3.js",
+		"/Users/jankjr/Code/intro3d2/src/sphere.js",
+		"/Users/jankjr/Code/intro3d2/src/model.js",
+		"/Users/jankjr/Code/intro3d2/src/exception.js",
+		"/Users/jankjr/Code/intro3d2/src/texture.js",
+		"/Users/jankjr/Downloads/tex.png",
+		"/Users/jankjr/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jankjr/Code/intro3d2/src/noise.js",
+		"/Users/jankjr/Code/intro3d2/src/set.js",
+		"/Users/jankjr/Code/intro3d2/set.js",
+		"/Users/jankjr/Code/test-cloud-execution-pipeline/devicehost/services/screenshot/application.rb",
+		"/Users/jankjr/Code/intro3d2/src/bits.js",
+		"/Users/jankjr/Code/intro3d2/src/shader-utils.js",
+		"/Users/jankjr/Code/intro3d2/page.html",
+		"/Users/jankjr/Code/intro3d2/src/worldgen.js",
+		"/Users/jankjr/Code/intro3d2/src/vertexDescription.js",
+		"/Users/jankjr/Code/intro3d2/src/renderer.js",
+		"/Users/jankjr/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/jankjr/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/jankjr/Code/analyse-stuff/tests.rb",
+		"/Users/jankjr/Library/Application Support/Sublime Text 3/Packages/GoSublime/USAGE.md",
+		"/Users/jankjr/Code/test-cloud-execution-pipeline/jobs/xtc-sandbox-runtime/adb",
+		"/Users/jankjr/.zshrc",
+		"/Users/jankjr/Code/makealias/alias.py",
+		"/Users/jankjr/Code/analyse-stuff/tests.ruby",
+		"/Users/jankjr/Code/intro3d1/main.js",
+		"/Users/jankjr/Code/intro3d1/main.html",
+		"/Users/jankjr/Code/intro3d1/simplex.js",
+		"/Users/jankjr/Library/Application Support/Sublime Text 3/Packages/GoSublime/9o.md",
+		"/Users/jankjr/Code/test-cloud-provisioning/chef/vagrant/executionhost.provisioned/Vagrantfile",
+		"/Users/jankjr/Code/test-cloud-provisioning/chef/vagrant/frontend.dev/Vagrantfile",
+		"/Users/jankjr/Code/test-cloud-provisioning/chef/vagrant/executionhost.ubuntu.dev/Vagrantfile",
+		"/Users/jankjr/Code/test-cloud-provisioning/chef/vagrant/executionhost.dev/Vagrantfile",
+		"/Users/jankjr/Code/test-cloud-provisioning/chef/vagrant/executionhost.ubuntu.dev/Vagrafi",
+		"/Users/jankjr/Code/test-cloud-provisioning/chef/vagrant/frontend.dev/Vagrant",
+		"/Users/jankjr/Code/test-cloud-execution-pipeline/devicehost/services/calabash/application.rb",
+		"/Users/jankjr/Code/test-cloud-execution-pipeline/devicehost/services/calabash/Gemfile",
+		"/Users/jankjr/Code/test-cloud-execution-pipeline/devicehost/services/rspec-runner/application.rb",
+		"/Users/jankjr/Code/remote-devicecontrol/spec/devicecontrol_spec.rb",
+		"/Users/jankjr/Code/remote-devicecontrol/Gemfile",
+		"/Users/jankjr/Code/remote-devicecontrol/spec/spec_helper.rb",
+		"/Users/jankjr/Code/remote-devicecontrol/lib/remote-adevice.rb",
+		"/Users/jankjr/Code/test-cloud-execution-pipeline/devicehost/services/devicecontrol/application.rb",
+		"/Users/jankjr/Code/test-cloud-execution-pipeline/devicehost/services/rspec-runner/spec/devicecontrol_spec.rb",
+		"/Users/jankjr/Code/devicecontrol/remote-adevice.rb",
+		"/Users/jankjr/Code/test-cloud-test-apps/XTCAndroidSampleProject/test/features/step_definitions/sample_project_steps.rb",
+		"/Users/jankjr/Code/test-cloud-execution-pipeline/devicehost/services/rspec-runner/sinatra-config.yml",
+		"/Users/jankjr/Code/test-cloud-execution-pipeline/devicehost/services/rspec-runner/spec/spec_helper.rb",
+		"/Users/jankjr/Code/test-cloud-execution-pipeline/devicehost/services/rspec-runner/spec",
+		"/Users/jankjr/Code/test-cloud-execution-pipeline/devicehost/services/rspec-runner/Gemfile",
+		"/Users/jankjr/Code/test-cloud-execution-pipeline/devicehost/services/hello/application.rb",
+		"/Users/jankjr/Code/devicecontrol/lib/devicecontrol/adevice.rb",
+		"/Users/jankjr/Code/devicecontrol/spec/spec_helper.rb",
+		"/Users/jankjr/Code/devicecontrol/start_device_control.rb",
+		"/Users/jankjr/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/jankjr/Code/test-cloud-execution-pipeline/devicehost/services/device-host/application.rb",
+		"/Users/jankjr/Code/devicecontrol/spec/devicecontrol_spec.rb",
+		"/Users/jankjr/Code/test-cloud-execution-pipeline/devicehost/services/screenshot/bootstrap.sh",
+		"/Users/jankjr/Code/test-cloud-execution-pipeline/devicehost/services/screenshot/Gemfile",
+		"/Users/jankjr/Code/test-cloud-execution-pipeline/devicehost/services/screenshot/config.ru",
+		"/Users/jankjr/Code/devicecontrol/Gemfile",
+		"/Users/jankjr/Code/devicecontrol/spec/devicecontrol/devicecontrol_spec.rb",
+		"/Users/jankjr/Code/test-cloud-execution-pipeline/devicehost/services/device-host/main.html",
+		"/Users/jankjr/Code/test-cloud-execution-pipeline/devicehost/session-service/lib/sessions.rb",
+		"/Users/jankjr/Code/devicecontrol/lib/devicecontrol/device.rb",
+		"/Users/jankjr/Code/test-cloud-execution-pipeline/devicehost/services/deviceHost/config.ru",
+		"/Users/jankjr/Code/test-cloud-execution-pipeline/devicehost/services/deviceHost/boostrap.sh",
+		"/Users/jankjr/Code/test-cloud-execution-pipeline/devicehost/services/deviceHost/application.rb",
+		"/Users/jankjr/Code/test-cloud-execution-pipeline/devicehost/services/nettest/application.rb",
+		"/Users/jankjr/Code/test-cloud-execution-pipeline/devicehost/services/deviceHost/Gemfile",
+		"/Users/jankjr/Code/test-cloud-execution-pipeline/devicehost/services/nettest/Gemfile",
+		"/Users/jankjr/Code/test-cloud-execution-pipeline/devicehost/gmsws/config.ru",
+		"/Users/jankjr/Code/lang/tokens.ml",
+		"/Users/jankjr/Code/lang/lex.mll",
+		"/Users/jankjr/Code/test-cloud-execution-pipeline/coordinator2/src/coordinator2/lex.mll",
+		"/Users/jankjr/Code/test-cloud-test-apps/XTCAndroidSampleProject/test/features/main.feature",
+		"/Users/jankjr/Code/mono/mono/mini/cpu-x86.md",
+		"/Users/jankjr/Code/mono/mono/mini/mini.h",
+		"/Users/jankjr/Code/mono/mono/mini/ssa.c",
+		"/Users/jankjr/Code/mono/mono/mini/mini.c",
+		"/Users/jankjr/Code/mono/mono/mini/dominators.c",
+		"/Users/jankjr/Code/mono/mono/mini/mini-llvm-cpp.cpp",
+		"/Users/jankjr/Code/mono/mcs/mcs/driver.cs",
+		"/Users/jankjr/Code/mono/mcs/Makefile",
+		"/Users/jankjr/Code/mono/Makefile",
+		"/Users/jankjr/Code/test-cloud-frontend/app/controllers/admin/market_shares_controller.rb",
+		"/Users/jankjr/Code/test-cloud-frontend/app/assets/javascripts/angular/xtc_admin_market_shares.js.coffee",
+		"/Users/jankjr/Code/test-cloud-frontend/app/assets/javascripts/directives/market-shares-chart.js.coffee",
+		"/Users/jankjr/Code/test-cloud-frontend/app/assets/javascripts/angular/xtc_admin.js.coffee",
+		"/Users/jankjr/Code/test-cloud-frontend/app/views/admin/market_shares/index.html.erb",
+		"/Users/jankjr/Code/test-cloud-frontend/app/controllers/admin/tmp/tc20150616.csv",
+		"/Users/jankjr/Code/test-cloud-frontend/app/controllers/admin/tmp_market_shares/tc20150616.csv",
+		"/Users/jankjr/Code/test-cloud-frontend/app/assets/javascripts/controllers/market-shares.js.coffee",
+		"/Users/jankjr/Downloads/market_shares_data.csv",
+		"/Users/jankjr/Code/test-cloud-frontend/app/assets/views/market-shares/pie-chart.html.erb",
+		"/Users/jankjr/Code/test-cloud-frontend/app/assets/javascripts/directives/market-shares-filter.js.coffee",
+		"/Users/jankjr/Code/test-cloud-frontend/app/assets/views/market-shares/filter-widget.html.erb",
+		"/Users/jankjr/Code/test-cloud-frontend/app/assets/javascripts/angular/xtc.js.coffee",
+		"/Users/jankjr/Code/test-cloud-internal-tools/DevicePhaseIn/lib/device.rb",
+		"/Users/jankjr/Code/test-cloud-internal-tools/DevicePhaseIn/run.rb",
+		"/Users/jankjr/Downloads/countries_overview.json",
+		"/Users/jankjr/Code/test-cloud-frontend/app/assets/javascripts/misc/views.js.erb",
+		"/Users/jankjr/Code/test-cloud-frontend/app/models/device_model.rb",
+		"/Users/jankjr/Code/test-cloud-frontend/app/views/layouts/admin.html.erb",
+		"/Users/jankjr/Code/test-cloud-frontend/app/views/admin/pipelines/show.html.erb",
+		"/Users/jankjr/Code/test-cloud-frontend/app/assets/stylesheets/base/typography.less",
+		"/Users/jankjr/Code/test-cloud-frontend/app/controllers/admin/api/device_models_controller.rb",
+		"/Users/jankjr/Code/test-cloud-frontend/app/controllers/devices_controller.rb",
+		"/Users/jankjr/Code/test-cloud-frontend/config/routes.rb",
+		"/Users/jankjr/Code/test-cloud-frontend/app/models/market_share.rb",
+		"/Users/jankjr/Code/ruby-analyze/analyze.js",
+		"/etc/hosts"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"/Users/jankjr/Code/lang",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"5",
+			"material",
+			"mesh",
+			"=== 0",
+			"perspectiveCamera",
+			"mouseInfo",
+			"y + 0",
+			" + 0",
+			"1",
+			"y + 1",
+			"y",
+			"currentBlock",
+			"pageUpdatesE",
+			"input",
+			"Input",
+			"input",
+			"res.x, ",
+			"blockPicker",
+			"offsideMat",
+			"material",
+			"pageUpdates",
+			"position",
+			"Position",
+			"position",
+			"Position",
+			"position",
+			"mouseIsOver",
+			"100%",
+			"left",
+			"+",
+			"sameSide( page, vertex, 8",
+			"/",
+			"sameSide( page, vertex, 8, x, y, z );",
+			"page, x, y, z",
+			"x, y, z",
+			"64",
+			"material",
+			"moon",
+			"moonx",
+			"sun",
+			";",
+			"[ ii++ ]",
+			"setu",
+			"1",
+			"1,",
+			"1, 0",
+			"1",
+			"viewpoint",
+			"();\n",
+			"argument",
+			"gl.createBuffer( gl.ARRAY_BUFFER )",
+			" );",
+			");",
+			"this.",
+			"161",
+			"idToUV( ",
+			"20",
+			"s",
+			"x",
+			"1",
+			"material: colored",
+			"Colored",
+			"colored",
+			"textured",
+			"colored",
+			"Math.random",
+			"random()",
+			"x",
+			"xx",
+			"CHUNK_SIZE",
+			"this.",
+			"geomChunkCoord",
+			"geomChunkCoord( ",
+			"1",
+			" - 1",
+			"p.",
+			":",
+			"x",
+			"nearest",
+			"LINEAR",
+			"3",
+			"UVSide",
+			"6, vertex",
+			"bindt",
+			"sample2D",
+			"uniform2D",
+			"      ",
+			"u",
+			"UVSide( page, 6, vertex )",
+			"3",
+			"*",
+			"0",
+			"x0",
+			"3",
+			"orthoCamera",
+			"orthCamera",
+			"console.log",
+			"realCoordToBlockCoord",
+			"32",
+			"CHUNK_SIZE",
+			"chunkId",
+			"&&",
+			"isAllocated",
+			"wrapped",
+			"conv",
+			"Math.abs( z ) % 32",
+			"Math.abs( x ) % 32",
+			"this",
+			"nearChunksNear",
+			"zb",
+			"xb",
+			"cam",
+			"x",
+			"cam.",
+			"current",
+			"i",
+			"getBlockNonRequesting",
+			" - 1",
+			"X",
+			"x",
+			"Set",
+			"a",
+			"chunkId",
+			"y",
+			"x",
+			"control",
+			"+",
+			"d"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/vertex-memory.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5768,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5368,
+								5368
+							]
+						],
+						"settings":
+						{
+							"glslvalidator_configured": true,
+							"glslvalidator_enabled": 1,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Users/jankjr/Code/connections":
+	{
+		"height": 118.0
+	},
+	"output.9o:///Users/jankjr/Code/intro3d1":
+	{
+		"height": 100.0
+	},
+	"output.9o:///Users/jankjr/Code/intro3d2/src":
+	{
+		"height": 118.0
+	},
+	"output.9o:///Users/jankjr/Code/test-cloud-frontend/app/views/admin/market_shares":
+	{
+		"height": 118.0
+	},
+	"output.9o:///Users/jankjr/Code/test-cloud-internal-tools/DevicePhaseIn":
+	{
+		"height": 118.0
+	},
+	"output.GoSublime-output":
+	{
+		"height": 118.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "intro3d2.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"world",
+				"src/world.js"
+			],
+			[
+				"vertex",
+				"src/vertex-memory.js"
+			],
+			[
+				"bloc",
+				"src/block-definition.js"
+			],
+			[
+				"mat",
+				"src/mat4.js"
+			],
+			[
+				"",
+				"src/block-definition.js"
+			],
+			[
+				"bo",
+				"src/block-definition.js"
+			],
+			[
+				"main.",
+				"main.html"
+			],
+			[
+				"verte",
+				"src/vertex-memory.js"
+			],
+			[
+				"block",
+				"src/block-definition.js"
+			],
+			[
+				"blockge",
+				"src/block-geometry.js"
+			],
+			[
+				"better",
+				"src/betterinput.js"
+			],
+			[
+				"bl",
+				"src/block-definition.js"
+			],
+			[
+				"star",
+				"src/start.js"
+			],
+			[
+				"main.js",
+				"src/main.js"
+			],
+			[
+				"word",
+				"src/world-renderer.js"
+			],
+			[
+				"start",
+				"src/start.js"
+			],
+			[
+				"chunk",
+				"src/chunk.js"
+			],
+			[
+				"main",
+				"main.html"
+			],
+			[
+				"worl",
+				"src/world.js"
+			],
+			[
+				"wor",
+				"src/world-renderer.js"
+			],
+			[
+				"ren",
+				"src/world-renderer.js"
+			],
+			[
+				"sphere",
+				"src/sphere.js"
+			],
+			[
+				"mesh",
+				"src/mesh.js"
+			],
+			[
+				"mes",
+				"src/mesh.js"
+			],
+			[
+				"cam",
+				"src/camera.js"
+			],
+			[
+				"materi",
+				"src/material.js"
+			],
+			[
+				"start.",
+				"src/start.js"
+			],
+			[
+				"worldr",
+				"src/world-renderer.js"
+			],
+			[
+				"world-r",
+				"src/world-renderer.js"
+			],
+			[
+				"blo",
+				"src/block-definition.js"
+			],
+			[
+				"block-",
+				"src/block-definition.js"
+			],
+			[
+				"mater",
+				"src/material.js"
+			],
+			[
+				"sph",
+				"src/sphere.js"
+			],
+			[
+				"te",
+				"src/texture.js"
+			],
+			[
+				"mat4",
+				"src/mat4.js"
+			],
+			[
+				"m",
+				"src/mat4.js"
+			],
+			[
+				"mini.c",
+				"mini.c"
+			],
+			[
+				"makefile",
+				"Makefile"
+			],
+			[
+				"filter-widget",
+				"app/assets/views/market-shares/filter-widget.html.erb"
+			],
+			[
+				"views.js",
+				"app/assets/javascripts/misc/views.js.erb"
+			],
+			[
+				"xtc_admin",
+				"app/assets/javascripts/angular/xtc_admin.js.coffee"
+			],
+			[
+				"devicemodel",
+				"app/models/device_model.rb"
+			],
+			[
+				"device_controller",
+				"app/controllers/devices_controller.rb"
+			],
+			[
+				"lists",
+				"lib/device_phase_in/list_sorter.rb"
+			],
+			[
+				"rubn",
+				"run.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 692.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

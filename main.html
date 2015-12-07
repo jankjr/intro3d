@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Minecraft Clone</title>
+  <style type="text/css">
+  img {
+    display: none;
+  }
+  body, html {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  p, span {
+    color: white;
+    text-shadow: 0 0 2px black;
+  }
+  </style>
+
+  <script id="textured" type="text/effect">
+  varying vec3 vNormal;
+  varying vec2 vUV;
+  varying vec3 vView;
+  void main(){
+    vView = aPosition - cameraPosition;
+
+    gl_Position = projectionMatrix * modelviewMatrix * vec4(aPosition, 1.0);
+    vNormal = aNormal;
+    vUV = aUV;
+  }
+
+#FS:
+  #define shininess 512.0
+  varying vec3 vView;
+  varying vec3 vNormal;
+  varying vec2 vUV;
+
+  float calculateLambert( in vec3 normal, in vec3 direction ){
+    return clamp( dot( direction, normal ), 0.0, 1.0 );
+  }
+  float distanceAttenuation( ){
+    float d = length( vView );
+
+    return 32.0 / ( d * d );
+  }
+  float calculateSpecular( in vec3 normal, in vec3 view, in vec3 direction ){
+    vec3 reflectDir = reflect(-direction, normal);
+    float specAngle = clamp( dot( reflectDir, view ), 0.0, 1.0);
+    return pow( specAngle, shininess );
+  }
+
+  void main(){
+    vec3 normal = normalize( vNormal );
+    vec3 view = normalize( -vView );
+
+    vec4 diffuse = texture2D( worldTexture, vUV );
+    vec4 illumination = vec4( worldAmbientColor, 1.0 ) * diffuse;
+
+    illumination += diffuse * calculateLambert( normal, sunDir ) + calculateSpecular( normal, view, sunDir );
+    illumination += diffuse * calculateLambert( normal, moonDir ) + calculateSpecular( normal, view, moonDir );
+
+    illumination += diffuse * calculateLambert( normal, view ) * distanceAttenuation( );
+    gl_FragColor = illumination;
+  }
+  </script>
+  <script id="sunMoon" type="text/effect">
+  varying vec2 vUV;
+  void main(){
+    gl_Position = projectionMatrix * modelviewMatrix * modelMatrix * vec4(aPosition, 1.0);
+    vUV = aUV;
+  }
+#FS:
+  varying vec2 vUV;
+  void main(){
+    vec4 col = texture2D( objectTexture, vUV ) ;
+    gl_FragColor = col;
+  }
+  </script>
+  <script id="blockPicker" type="text/effect">
+  varying vec4 vID;
+  void main(){
+    vID = aID;
+    gl_Position = projectionMatrix * modelviewMatrix * vec4(aPosition, 1.0);
+  }
+#FS:
+  varying vec4 vID;
+  void main(){
+    gl_FragColor = vec4( vID );
+  }
+  </script>
+  <script id="normalPicker" type="text/effect">
+  varying vec3 vNormal;
+  void main(){
+    vNormal = aNormal * 0.5 + 0.5;
+    gl_Position = projectionMatrix * modelviewMatrix * vec4(aPosition, 1.0);
+  }
+#FS:
+  varying vec3 vNormal;
+  void main(){
+    gl_FragColor = vec4( vNormal, 1.0 );
+  }
+  </script>
+  <script id="wireframe" type="text/effect">
+  void main(){
+    gl_Position = projectionMatrix * modelviewMatrix * vec4(aPosition, 1.0);
+  }
+#FS:
+  void main(){
+    gl_FragColor = vec4(0.0, 0.0, 0.0, 1.0);
+  }
+  </script>
+</head>
+<body>
+<script type="text/javascript" src='src/start.js'></script>
+<script type="text/javascript" src='src/exception.js'></script>
+<script type="text/javascript" src='src/noise.js'></script>
+<script type="text/javascript" src='src/shader-utils.js'></script>
+<script type="text/javascript" src='src/material.js'></script>
+<script type="text/javascript" src='src/betterinput.js'></script>
+<script type="text/javascript" src='src/block-geometry.js'></script>
+<script type="text/javascript" src='src/interleaved-mesh.js'></script>
+<script type="text/javascript" src='src/block-definition.js'></script>
+<script type="text/javascript" src='src/mesh.js'></script>
+<script type="text/javascript" src='src/sphere.js'></script>
+<script type="text/javascript" src='src/bits.js'></script>
+<script type="text/javascript" src='src/mat4.js'></script>
+<script type="text/javascript" src='src/vec3.js'></script>
+<script type="text/javascript" src='src/camera.js'></script>
+<script type="text/javascript" src='src/block-geometry.js'></script>
+<script type="text/javascript" src='src/vertex-memory.js'></script>
+<script type="text/javascript" src='src/chunk.js'></script>
+<script type="text/javascript" src='src/texture.js'></script>
+<script type="text/javascript" src='src/world-renderer.js'></script>
+<script type="text/javascript" src='src/world.js'></script>
+<script type="text/javascript" src='src/main.js'></script>
+</body>
+</html>
